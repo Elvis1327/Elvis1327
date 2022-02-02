@@ -13,7 +13,7 @@ const Elvis = {
 ### Things that I'm currently working on:
 * Learning new Front-End Web💻 Technologies.
 * Learning About Algorithm and Data Structures.
-* Planing to learn Python.
+* Planning to learn some Python.
 * 🔜
 
 ### You can find me 🌎:
