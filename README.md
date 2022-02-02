@@ -6,7 +6,7 @@
 const Elvis = {
   pronouns: "He" | "Him",
   code: [Html, Css, Bootstrap, Sass, Javascript, Typescript, React],
-  tools: [React, Redux, Node, Styled-Components]
+  tools: [Git, Github, Redux, Node, Styled-Components]
 }
 ```
 You can find me 🌎:
