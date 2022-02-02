@@ -9,7 +9,14 @@ const Elvis = {
   tools: [Git, Github, Redux, Node, Styled-Components]
 }
 ```
-You can find me 🌎:
-- Website: https://elvis-portfolio-six.vercel.app/
+
+### Things that I'm currently working on:
+* Learning new Front-End Web💻 Technologies.
+* Learning About Algorithm and Data Structures.
+* Planing to learn Python.
+* 🔜
+
+### You can find me 🌎:
+- Website: https://elvis-portfolio-six.vercel.app
 - Twitter: https://twitter.com/Elvis__13
-- Linkedin: https://www.linkedin.com/in/elvin-garcia-valdez-459721210/
+- Linkedin: https://www.linkedin.com/in/elvin-garcia-valdez-459721210
