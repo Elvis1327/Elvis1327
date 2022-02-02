@@ -2,7 +2,7 @@
 
 ```javascript
 const Elvis = {
-  pronouns: "she" | "her",
+  pronouns: "He" | "Him",
   code: [Html, Css, Bootstrap, Sass, Javascript, Typescript, React],
   tools: [React, Redux, Node, Styled-Components]
 
