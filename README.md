@@ -1,6 +1,6 @@
 ### Hi, i'm Elvis
 
-![1500x500](https://user-images.githubusercontent.com/71021156/152100606-d27f2cdf-6e24-4a34-9f2d-280d038c5ad6.jpg)
+![600x200](https://user-images.githubusercontent.com/71021156/152100782-d6d492dd-8972-402a-bd9c-e03530bf7558.jpg)
 
 ```javascript
 const Elvis = {
